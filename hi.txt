@@ -1,4 +1,4 @@
 j
 New commitment
 
-form local to server pull
+form local to server push origin
