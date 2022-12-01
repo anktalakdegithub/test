@@ -2,3 +2,4 @@ j
 New commitment
 
 form local to server push origin
+from server to local pullorigin main
